@@ -1,5 +1,7 @@
+import Form from "@/components/form";
+
 const AdminDashboard = () => {
-  return <div>/* Admin */</div>;
+  return <Form />;
 };
 
 export default AdminDashboard;
